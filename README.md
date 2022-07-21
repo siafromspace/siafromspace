@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharon Yakubu</h1>
 <h3 align="center">A Frontend Developer.</h3>
 
-- 🌱 I’m currently learning **Advanced Javascript.**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **sharonyak15@gmail.com**
 

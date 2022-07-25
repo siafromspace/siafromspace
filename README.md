@@ -47,7 +47,6 @@ Frontend Web Developer
 
 <div width="100%" align="center"><a href="https://github.com/siafromspace/my-personal-instagram" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=siafromspace&repo=my-personal-instagram&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/siafromspace/ecommerce-product-page" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=siafromspace&repo=ecommerce-product-page&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/sharonyakubu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

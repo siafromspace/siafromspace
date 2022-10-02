@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sharon Yakubu
 =====================================================================================================================================
 
-Frontend Web Developer
+A Frontend Web Developer
 ----------------------
-
+driven with competency in building secure frontend web designs and thrives on working on challenging projects with diverse personalities.
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [sharonyak15@gmail.com](mailto:sharonyak15@gmail.com)
-* 🧠  I'm learning React.
+* 🧠  I'm mastering ReactJS.
 * 🤝  I'm open to collaborating on interesting, dynamic, frontend projects.
 * ⚡  Besides writing code, I love to read fantasy or science fiction and eat junk.
 
